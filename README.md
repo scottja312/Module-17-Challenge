@@ -1,4 +1,5 @@
 # Module-17-Challenge
+## Credit Risk Resampling Algorithms
 ### Initial Analysis:
 * This challenge assignment in supervised learning was used to classify whether a lending company could use an algorithm to identify low-risk lenders (i.e. lenders with good credits) to be approved for loans.
 
