@@ -1,5 +1,6 @@
 # Module-17-Challenge
 ### Initial Analysis:
+* This challenge assignment in supervised learning was used to classify whether a lending company could use an algorithm to identify low-risk lenders (i.e. lenders with good credits) to be approved for loans.
 
 * In the cleaned dataset, there were 347 high-risk loans identified and 68,470 low-risk loans available to be analyzed. Overall, the dataset contained a very small percentage of high-risk loans to be identified (less than 0.5% of the total 68,817 loan data processed), leading the initial proficiency of algorithms run to be expected to identify more loans as low-risk since this data was in the majority.
 
